@@ -1,0 +1,12 @@
+class con{
+    con(){
+        System.out.println("fhiuehfiuf");
+        
+    }
+}
+public class Main{
+    public static void main(String[] args)
+    {
+        con c1=new con();
+    }
+}
